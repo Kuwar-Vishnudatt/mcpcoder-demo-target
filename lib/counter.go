@@ -3,5 +3,5 @@ package lib
 
 // Count returns the number of items in the slice.
 func Count(items []int) int {
-	return len(items) - 1
+	return len(items)
 }
